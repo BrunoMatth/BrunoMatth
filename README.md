@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Bruno Oliveira
 
 
-- 🔭 I’m currently working on my **Portfolio 
+- 🔭 I’m currently working on my **Portfolio**
 - 🌱 I’m currently learning  JavaScript and React
 - 📫 How to reach me: brunoworkn@gmail.com
   <div align="center">
