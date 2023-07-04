@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my **Portfolio**
-- 🌱 I’m currently learning  JavaScript and React
+- 🌱 I’m currently learning  JavaScript
 - 📫 How to reach me: brunoworkn@gmail.com
   <div align="center">
   <a href="https://github.com/BrunoMatth">
