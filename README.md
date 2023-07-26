@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my **Portfolio**
-- 🌱 I’m currently learning  JavaScript
+- 🌱 I’m currently learning  Java
 - 📫 How to reach me: brunoworkn@gmail.com
   <div align="center">
   <a href="https://github.com/BrunoMatth">
@@ -39,6 +39,5 @@
   <a href = "mailto:brunoworkn@gmail.com"><img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-matheus-medeiros-56aba5181/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/LuanPBS98/LuanPBS98/blob/output/github-contribution-grid-snake.svg)
  
 </div>
